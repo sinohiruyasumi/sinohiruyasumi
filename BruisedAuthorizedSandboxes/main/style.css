@@ -1,0 +1,24 @@
+body {
+  font-family: Source Han Code JP;
+}
+
+.hedder {
+  background-color: cornflowerblue;
+  padding: 17px;
+  font-family: Fira Code;
+  font-size: 23px;
+}
+
+.hedder1 {
+  color: oldlace;
+}
+
+ul {
+  text-align: right;
+}
+ 
+li {
+  display: inline;
+  list-style: none;
+  padding: 17px;
+}
